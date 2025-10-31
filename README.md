@@ -34,7 +34,7 @@ Criar uma pequena Pokédex que consome dados da [PokeAPI](https://pokeapi.co) e 
 
 ### 1️⃣ Listagem de Pokémons
 
-- Ao iniciar a aplicação, são carregados **20 Pokémons** da PokeAPI (`https://pokeapi.co/api/v2/pokemon?limit=20`).
+- Ao iniciar a aplicação, são carregados **20 Pokémons** da PokeAPI.
 - Cada Pokémon é exibido em um card contendo:
   - Nome do Pokémon.
   - Um botão para favoritar/desfavoritar (⭐ / ☆).
